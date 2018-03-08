@@ -1,0 +1,76 @@
+.page-title {
+  text-align: center;
+  font-family: 'Rock Salt', cursive;
+  color: #962703;
+  padding: 100px;
+  background-image: url("../img/Veggie-Burger-3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 500%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Rock Salt', cursive;
+  color: #962703;
+  text-decoration: underline;
+}
+
+.add-burger {
+  float: center;
+  text-align: center;
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+}
+
+#enter_text {
+  height: 40px;
+}
+
+#text-enter-button {
+  margin: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.secondary-content {
+  width: 80%;
+  margin: auto;
+  padding-bottom: 500px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.delicious-burgers {
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  margin-left: 0px;
+  text-align: center;
+}
+
+.devoured-burgers {
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  margin-left: 0px;
+  text-align: center;
+  line-height: 300%;
+}
+
+.main-content {
+  background-color: #ede7d0;
+}
